@@ -12,9 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=APerlinx&style=flat-square&color=blue" alt="" />
 </div>
 
-<div align="center">
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
-</div>
 
 ### <div align="center">:hammer_and_wrench: Languages and Tools :</div>
 <div align="center">

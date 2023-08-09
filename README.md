@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=APerlinx&style=flat-square&color=blue" alt="" />
 </div>
 
 <div align="center">
@@ -26,8 +26,8 @@
 ### <div align="center">:fire: My Stats :</div>
 <div align="center">
   
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=APerlinx&theme=dark&background=000000)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=APerlinx&show_icons=true&theme=tokyonight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APerlinx&layout=compact&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APerlinx&layout=compact&theme=tokyonight)
   
 </div>

@@ -10,6 +10,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=APerlinx&style=flat-square&color=blue" alt="GitHub Profile Views" />
+  <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=flat-square&logo=wifi" />
 </div>
 
 ---
@@ -41,6 +42,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=flat-square&logo=wifi" />
-</p>
+

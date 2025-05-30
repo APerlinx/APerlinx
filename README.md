@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh6bGRlYnoyeWdhOTQ5cWp2Y2VydHBkeGJqenpsMGxwZjdlNXZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,7 +16,7 @@
 ### <div align="center">:hammer_and_wrench: Languages and Tools :</div>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,git,nodejs,vue,angular,react,mongodb,postman,vscode,scss,css,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase)](https://skillicons.dev)
   
 </div>
 

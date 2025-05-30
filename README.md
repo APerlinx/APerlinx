@@ -22,7 +22,9 @@
 
 ### <div align="center">:fire: My Stats :</div>
 <div align="center">
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=APerlinx&show_icons=true&theme=tokyonight)
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APerlinx&layout=compact&theme=tokyonight)
 
   
 </div>

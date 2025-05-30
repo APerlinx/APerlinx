@@ -42,4 +42,5 @@
 </p>
 
 
+  <img src="https://github-readme-stats.vercel.app/api?username=APerlinx&show_icons=true&theme=react&hide_border=true" alt="Alon's GitHub Stats"/>
 

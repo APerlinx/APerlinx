@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Languages and Tools:
+
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase,vite,aws&perline=8)](https://skillicons.dev)

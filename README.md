@@ -16,7 +16,7 @@
 ### <div align="center">:hammer_and_wrench: Languages and Tools :</div>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase&perline=7)](https://skillicons.dev)
   
 </div>
 

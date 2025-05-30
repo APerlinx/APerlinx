@@ -21,19 +21,13 @@
 
 </div>
 
----
 
-### 🔥 GitHub Stats
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=APerlinx&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APerlinx&layout=compact&theme=tokyonight" />
 
-</div>
 
----
 
-### 📫 Contact
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alonperlin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
@@ -46,9 +40,7 @@
   </a>
 </p>
 
----
 
-### 🟢 Status  
 <p align="center">
   <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=flat-square&logo=wifi" />
 </p>

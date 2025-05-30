@@ -19,9 +19,16 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase,vite,aws&perline=8)](https://skillicons.dev)
   
 </div>
+![Status](https://img.shields.io/badge/Currently-Online-brightgreen?style=flat-square&logo=wifi)
 
 ### <div align="center">:fire:</div>
 <div align="center">
+![Alon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=APerlinx&show_icons=true&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APerlinx&layout=compact&theme=tokyonight)
+![GitHub last commit](https://img.shields.io/github/last-commit/APerlinx/Sprint4-TrelloClone-Frontend?style=flat&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alonperlin/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/APerlinx)
+[![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:alonperinx@gmail.com)
 
 
   

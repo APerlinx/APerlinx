@@ -18,6 +18,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase,vite,aws&perline=8)](https://skillicons.dev)
 </div>
+<br><br>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alonperlin/">

@@ -1,20 +1,33 @@
+## <p align="center">👋 Hi, I'm Alon Perlin</p>
+
+I'm a Full Stack Developer based in Tel Aviv, focused on building fast, responsive, and scalable web apps using React, Next.js, and Tailwind.
+
+### 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
+- **Fullstack Frameworks:** Next.js (API routes, SSR, ISR)
+- **Backend/Databases:** Supabase, MongoDB, Node.js (basic)
+- **Tools:** Git, GitHub, Vercel, Netlify, Figma
+
+### 🔥 Recent Projects
+- [hermanarchitects.com](https://hermanarchitects.com) – Real-world architecture firm website (React + Tailwind)
+- [The Wild Oasis](https://the-wild-oasis-website-vert-five.vercel.app/) – Hotel dashboard (Next.js app with fullstack logic and Supabase integration)
+- [Trello Clone](https://trio-j5ev.onrender.com) – Vue-based collaborative task board
+
+### 🎯 Goals
+- Seeking a full-time role focused on React and/or Next.js
+- Currently learning TypeScript and strengthening interview skills
+- Passionate about clean UI, performance, and delivering value with fullstack tools
+
+---
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVnNXg5cWVub3Z1d3Vhanh0ZWMwZ28zenBsdWdjZndveGZuMGR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="300"/>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=APerlinx&style=flat-square&color=blue" alt="GitHub Profile Views" />
   <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=flat-square&logo=wifi" />
 </div>
+<br/>
 
-
----
-
-<div align="center">
-
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase,vite,aws&perline=8)](https://skillicons.dev)
-</div>
-<br><br>  
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase,vite,aws&perline=16)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alonperlin/">
@@ -27,3 +40,5 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
   </a>
 </p>
+
+</div>

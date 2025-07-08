@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh6bGRlYnoyeWdhOTQ5cWp2Y2VydHBkeGJqenpsMGxwZjdlNXZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="220"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVnNXg5cWVub3Z1d3Vhanh0ZWMwZ28zenBsdWdjZndveGZuMGR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="300"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=APerlinx&style=flat-square&color=blue" alt="GitHub Profile Views" />
   <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=flat-square&logo=wifi" />
 </div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/alonperlin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 ---
 

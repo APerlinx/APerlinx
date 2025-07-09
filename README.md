@@ -4,7 +4,7 @@ I'm a Full Stack Developer based in Tel Aviv, focused on building fast, responsi
 
 ### 🛠 Tech Stack
 - **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
-- **Fullstack Frameworks:** Next.js (API routes, SSR, ISR)
+- **Fullstack Frameworks:** Next.js 
 - **Backend/Databases:** Supabase, MongoDB, Node.js (basic)
 - **Tools:** Git, GitHub, Vercel, Netlify, Figma
 

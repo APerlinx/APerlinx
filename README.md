@@ -10,6 +10,7 @@ I'm a Full Stack Developer based in Tel Aviv, focused on building fast, responsi
 
 ### 🔥 Recent Projects
 - [hermanarchitects.com](https://hermanarchitects.com) – Real-world architecture firm website (React + Tailwind)
+- [cocktails and dreams](https://www.cocktailsndreams.art) - Real-wrold active bar website (Next.js with Typescript)
 - [The Wild Oasis](https://the-wild-oasis-website-vert-five.vercel.app/) – Hotel dashboard (Next.js app with fullstack logic and Supabase integration)
 - [Trello Clone](https://trio-j5ev.onrender.com) – Vue-based collaborative task board
 

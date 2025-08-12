@@ -6,7 +6,7 @@ I'm a Full Stack Developer based in Tel Aviv, focused on building fast, responsi
 - **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
 - **Fullstack Frameworks:** Next.js 
 - **Backend/Databases:** Supabase, MongoDB, Node.js (basic)
-- **Tools:** Git, GitHub, Vercel, Netlify, Figma
+- **Tools:** Git, GitHub, Vercel, Netlify
 
 ### 🔥 Recent Projects
 - [hermanarchitects.com](https://hermanarchitects.com) – Real-world architecture firm website (React + Tailwind)

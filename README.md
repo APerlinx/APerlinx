@@ -5,10 +5,10 @@ I'm a Full Stack Developer based in Tel Aviv, focused on building fast, responsi
 ### 🛠 Tech Stack
 - **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
 - **Fullstack Frameworks:** Next.js 
-- **Backend/Databases:** Supabase, MongoDB, Node.js (basic)
+- **Backend/Databases:** Node.js, Express, Supabase, MongoDB,Neon,Prisma 
 - **Tools:** Git, GitHub, Vercel, Netlify
 
-### 🔥 Recent Projects
+### 🔥 Public repo Projects
 - [hermanarchitects.com](https://hermanarchitects.com) – Real-world architecture firm website (React + Tailwind)
 - [cocktails and dreams](https://www.cocktailsndreams.art) - Real-wrold active bar website (Next.js with Typescript)
 - [The Wild Oasis](https://the-wild-oasis-website-vert-five.vercel.app/) – Hotel dashboard (Next.js app with fullstack logic and Supabase integration)

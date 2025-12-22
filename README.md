@@ -1,14 +1,14 @@
-## Alon Perlin
+<h2 align="center">Alon Perlin</h2>
 
 Full-stack developer (backend-leaning) based in Tel Aviv, focused on building **production-grade web systems** with strong security, testing, and CI/CD discipline.
 
 I enjoy owning features end-to-end — from API design and database modeling to frontend integration and deployment.
 
----
+<p align="center">· · ·</p>
 
-## Primary Project
+### Primary Project
 
-### ChatSVG (Beta)
+#### ChatSVG (Beta)
 
 AI-powered SVG generation platform — my main ongoing project.
 
@@ -27,22 +27,22 @@ This project is built as a real system, not a demo, and is actively evolving tow
 **Stack**  
 TypeScript, Node.js, Express, Prisma, PostgreSQL, React, Vite, Playwright, Jest, GitHub Actions
 
-Repository: [link]  
-Live (Beta): [link]
+Repository: [link](https://github.com/APerlinx/svg-saas-client)
+Live (Beta): [link](https://chatsvg-three.vercel.app/)
 
----
+<br />
 
-## Additional Production Work
+### Additional Production Work
 
 - **Herman Architects** — real-world website delivered for an architecture firm  
   https://hermanarchitects.com
 
-- **The Wild Oasis** — Next.js full-stack application with Supabase  
+- **The Wild Oasis** — Next.js full-stack demo application with Supabase  
   https://the-wild-oasis-website-vert-five.vercel.app
 
----
+<p align="center">· · ·</p>
 
-## Technical Stack
+### Technical Stack
 
 **Backend**  
 Node.js, Express, Prisma, PostgreSQL (Neon), Supabase
@@ -53,15 +53,15 @@ React, Next.js, TypeScript, Tailwind CSS
 **Quality & Delivery**  
 GitHub Actions (CI/CD), Jest, Playwright, Vercel, Render
 
----
+<p align="center">· · ·</p>
 
-## Focus
+### Focus
 
 - Backend or full-stack roles with real system ownership
 - Teams that value correctness, security, and production discipline
 - Long-lived systems over short-term demos
 
----
+<p align="center">· · ·</p>
 
 <div align="center">
 

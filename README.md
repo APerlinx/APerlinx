@@ -1,45 +1,75 @@
-## <p align="center">👋 Hi, I'm Alon Perlin</p>
+## Alon Perlin
 
-I'm a Full Stack Developer based in Tel Aviv, focused on building fast, responsive, and scalable web apps using React, Next.js, and Tailwind.
+Full-stack developer (backend-leaning) based in Tel Aviv, focused on building **production-grade web systems** with strong security, testing, and CI/CD discipline.
 
-### 🛠 Tech Stack
-- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript
-- **Fullstack Frameworks:** Next.js 
-- **Backend/Databases:** Node.js, Express, Supabase, MongoDB,Neon,Prisma 
-- **Tools:** Git, GitHub, Vercel, Netlify
-
-### 🔥 Public repo Projects
-- [hermanarchitects.com](https://hermanarchitects.com) – Real-world architecture firm website (React + Tailwind)
-- [cocktails and dreams](https://www.cocktailsndreams.art) - Real-wrold active bar website (Next.js with Typescript)
-- [The Wild Oasis](https://the-wild-oasis-website-vert-five.vercel.app/) – Hotel dashboard (Next.js app with fullstack logic and Supabase integration)
-- [Trello Clone](https://trio-j5ev.onrender.com) – Vue-based collaborative task board
-
-### 🎯 Goals
-- Seeking a full-time role focused on React and/or Next.js
-- Currently learning TypeScript and strengthening interview skills
-- Passionate about clean UI, performance, and delivering value with fullstack tools
+I enjoy owning features end-to-end — from API design and database modeling to frontend integration and deployment.
 
 ---
-<div align="center">
+
+## Primary Project
+
+### ChatSVG (Beta)
+
+AI-powered SVG generation platform — my main ongoing project.
+
+This project is built as a real system, not a demo, and is actively evolving toward a commercial product.
+
+**Key characteristics**
+- Secure authentication (JWT access tokens, rotating refresh tokens, CSRF protection)
+- Backend-first architecture (Node.js, Express, Prisma, PostgreSQL / Neon)
+- Full CI/CD pipeline:
+  - Backend tests (Jest)
+  - End-to-end tests (Playwright)
+  - Branch protection and gated merges
+- Production deployments (Vercel for frontend, Render for backend)
+- Designed for future payments, usage limits, and subscriptions
+
+**Stack**  
+TypeScript, Node.js, Express, Prisma, PostgreSQL, React, Vite, Playwright, Jest, GitHub Actions
+
+Repository: [link]  
+Live (Beta): [link]
+
+---
+
+## Additional Production Work
+
+- **Herman Architects** — real-world website delivered for an architecture firm  
+  https://hermanarchitects.com
+
+- **The Wild Oasis** — Next.js full-stack application with Supabase  
+  https://the-wild-oasis-website-vert-five.vercel.app
+
+---
+
+## Technical Stack
+
+**Backend**  
+Node.js, Express, Prisma, PostgreSQL (Neon), Supabase
+
+**Frontend**  
+React, Next.js, TypeScript, Tailwind CSS
+
+**Quality & Delivery**  
+GitHub Actions (CI/CD), Jest, Playwright, Vercel, Render
+
+---
+
+## Focus
+
+- Backend or full-stack roles with real system ownership
+- Teams that value correctness, security, and production discipline
+- Long-lived systems over short-term demos
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=APerlinx&style=flat-square&color=blue" alt="GitHub Profile Views" />
-  <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=flat-square&logo=wifi" />
-</div>
-<br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,git,github,vscode,postman,mongodb,supabase,vite,aws&perline=16)](https://skillicons.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=APerlinx&style=flat-square)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alonperlin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/APerlinx">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
-  </a>
-  <a href="mailto:alonperinx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
-  </a>
-</p>
+[![Tech](https://skillicons.dev/icons?i=ts,nodejs,express,postgres,prisma,react,nextjs,githubactions&perline=8)](https://skillicons.dev)
+
+<a href="https://www.linkedin.com/in/alonperlin/">LinkedIn</a> ·
+<a href="mailto:alonperinx@gmail.com">Email</a>
 
 </div>

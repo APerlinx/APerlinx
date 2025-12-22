@@ -10,25 +10,35 @@ I enjoy owning features end-to-end — from API design and database modeling to 
 
 #### ChatSVG (Beta)
 
-AI-powered SVG generation platform — my main ongoing project.
+Production-oriented SaaS for generating structured SVG assets from text prompts.
+This is my primary ongoing project, built as a real system with security, testing, and deployment practices aligned with commercial products.
 
-This project is built as a real system, not a demo, and is actively evolving toward a commercial product.
+#### Key highlights
 
-**Key characteristics**
-- Secure authentication (JWT access tokens, rotating refresh tokens, CSRF protection)
-- Backend-first architecture (Node.js, Express, Prisma, PostgreSQL / Neon)
-- Full CI/CD pipeline:
-  - Backend tests (Jest)
-  - End-to-end tests (Playwright)
-  - Branch protection and gated merges
-- Production deployments (Vercel for frontend, Render for backend)
-- Designed for future payments, usage limits, and subscriptions
+- Secure authentication system with JWT access tokens, rotating refresh tokens (reuse detection), and CSRF protection
 
-**Stack**  
-TypeScript, Node.js, Express, Prisma, PostgreSQL, React, Vite, Playwright, Jest, GitHub Actions
+- Backend-first architecture focused on correctness, isolation, and scalability
 
-Repository: [link](https://github.com/APerlinx/svg-saas-client)
-Live (Beta): [link](https://chatsvg-three.vercel.app/)
+- Robust CI/CD pipeline enforcing quality gates:
+
+  - Backend unit and integration tests (Jest)
+  - End-to-end tests provisioning frontend, backend, and database (Playwright)
+  - Branch protection with required checks before merge
+
+- Production deployments with observability:
+
+  - Frontend on Vercel
+  - Backend API on Render
+  - Centralized logging (Pino) and error tracking (Sentry)
+
+- Designed to support future billing, quotas, and subscription tiers
+
+#### Technology stack
+TypeScript, Node.js, Express, Prisma, PostgreSQL (Neon), React, Vite, Jest, Playwright, GitHub Actions
+
+#### Links
+Repository: https://github.com/APerlinx/svg-saas-client
+Live (Beta): https://chatsvg-three.vercel.app/
 
 <br />
 

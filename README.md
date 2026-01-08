@@ -65,16 +65,20 @@ I treat this project as a long-lived system, not a throwaway exercise.
 
 <p align="center">
   <a href="assets/Frontend-architecture.png">
-    <img src="assets/Frontend-architecture.png" width="200" />
+    <img src="assets/Frontend-architecture.png" width="180" />
   </a>
     <a href="assets/System-architecture.png">
-    <img src="assets/System-architecture.png" width="200" />
+    <img src="assets/System-architecture.png" width="180" />
   </a>
     <a href="assets/Backend-architecture.png">
-    <img src="assets/Backend-architecture.png" width="200" />
+    <img src="assets/Backend-architecture.png" width="180" />
   </a>
 </p>
+
+
 ---
+
+<p align="center">· · ·</p>
 
 ### Links
 

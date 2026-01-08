@@ -75,6 +75,12 @@ I treat this project as a long-lived system, not a throwaway exercise.
   </a>
 </p>
 
+<p align="center">
+  <sub>
+    Frontend architecture diagram  ·  System architecture diagram  ·  Backend architecture diagram
+  </sub>
+</p>
+
 
 ---
 

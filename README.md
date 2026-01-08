@@ -78,8 +78,6 @@ I treat this project as a long-lived system, not a throwaway exercise.
 
 ---
 
-<p align="center">· · ·</p>
-
 ### Links
 
 - **Backend repo:**  

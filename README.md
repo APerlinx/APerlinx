@@ -63,6 +63,17 @@ I treat this project as a long-lived system, not a throwaway exercise.
 - Cookie-based auth with CSRF protection
 - REST + Socket.IO hybrid flow for async job updates
 
+<p align="center">
+  <a href="assets/Frontend-architecture.png">
+    <img src="assets/Frontend-architecture.png" width="280" />
+  </a>
+    <a href="assets/System-architecture.png">
+    <img src="assets/System-architecture.png" width="280" />
+  </a>
+    <a href="assets/Backend-architecture.png">
+    <img src="assets/Backend-architecture.png" width="280" />
+  </a>
+</p>
 ---
 
 ### Links

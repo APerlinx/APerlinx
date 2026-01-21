@@ -40,26 +40,6 @@ Not a demo: requests enqueue work, background workers process jobs asynchronousl
 
 ---
 
-### Architecture (diagrams)
-
-<p align="center">
-  <a href="assets/Frontend-architecture.png">
-    <img src="assets/Frontend-architecture.png" width="280" />
-  </a>
-  <a href="assets/System-architecture.png">
-    <img src="assets/System-architecture.png" width="280" />
-  </a>
-  <a href="assets/Backend-architecture.png">
-    <img src="assets/Backend-architecture.png" width="280" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    Frontend · System · Backend architecture diagrams
-  </sub>
-</p>
-
 <p align="center">· · ·</p>
 
 ## Additional Work

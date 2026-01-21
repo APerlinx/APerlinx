@@ -56,7 +56,7 @@ Not a demo: requests enqueue work, background workers process jobs asynchronousl
 
 ![Profile Views](https://komarev.com/ghpvc/?username=APerlinx&style=flat-square)
 
-[![Tech](https://skillicons.dev/icons?i=ts,nodejs,express,postgres,prisma,redis,react,nextjs,docker,kubernetes,aws,githubactions&perline=8)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=ts,nodejs,express,postgres,prisma,redis,react,nextjs,docker,kubernetes,aws,githubactions&perline=6)](https://skillicons.dev)
 
 <a href="https://www.linkedin.com/in/alonperlin/">LinkedIn</a> ·
 <a href="mailto:alonperinx@gmail.com">Email</a>

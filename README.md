@@ -10,7 +10,7 @@ async workloads, security, reliability, and real deployments.
 </p>
 
 <p align="center">
-Open to junior backend / full-stack roles (Node.js / TypeScript).
+Open to backend / full-stack roles (Node.js / TypeScript).
 </p>
 
 <p align="center">· · ·</p>

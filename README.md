@@ -1,7 +1,7 @@
 <h2 align="center">Alon Perlin</h2>
 
 <p align="center">
-<strong>Backend-Focused Full-Stack Developer</strong> · Tel Aviv/Givatayim
+<strong>Full-Stack Developer</strong> · Tel Aviv/Givatayim
 </p>
 
 <p align="center">

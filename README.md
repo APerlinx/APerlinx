@@ -14,7 +14,7 @@ async workloads · security · real-time updates · deployment reliability
 </p>
 
 <p align="center">
-💼 Open to backend / full-stack opportunities
+💼 Open to opportunities
 </p>
 
 
